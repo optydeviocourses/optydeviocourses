@@ -51,4 +51,4 @@ Here are some ideas to get you started:
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=optydeviocourses&show_icons=true&locale=en" alt="optydeviocourses" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optydeviocourses&" alt="optydeviocourses" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=optydeviocourses&" alt="optydeviocourses" /></p>
