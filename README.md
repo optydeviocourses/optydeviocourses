@@ -26,9 +26,8 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/abc_cordova" target="_blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/5959933821530099343-512.png" alt="abc_cordova" height="40" width="40" /></a>
-<a href="https://instagram.com/abc_cordova" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-03-512.png" alt="abc_cordova" height="40" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCIDTtyN-u8Oda8ylibWy3Ww" target="_blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/12069381451556105347-512.png" alt="ucidttyn-u8oda8ylibwy3ww" height="40" width="40" /></a>
+<a href="https://instagram.com/ten.carlos.roberto.ufal" target="_blank"><img align="center" src="https://cdn3.iconfinder.com/data/icons/social-network-30/512/social-03-512.png" alt="abc_cordova" height="40" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCaA6KIbCHhg4_Te1ef-ilZA" target="_blank"><img align="center" src="https://pics.freeicons.io/uploads/icons/png/12069381451556105347-512.png" alt="ucidttyn-u8oda8ylibwy3ww" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">My Tutorials:</h3>
