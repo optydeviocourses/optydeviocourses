@@ -1,5 +1,11 @@
 <!--
 **optydeviocourses/optydeviocourses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+
+[![npm version](https://img.shields.io/npm/v/single-spa.svg?style=flat-square)](https://www.npmjs.org/package/single-spa)
+[![](https://data.jsdelivr.com/v1/package/npm/single-spa/badge)](https://www.jsdelivr.com/package/npm/single-spa)
+[![NPM Downloads](https://badgen.net/npm/dm/single-spa)](https://npmjs.org/package/single-spa)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
